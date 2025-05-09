@@ -30,7 +30,7 @@ sudo mv kubectl-ai /usr/local/bin/
 
 #### Install with Krew (Linux/macOS/Windows)
 First of all, you need to have krew insatlled, refer to [krew document](https://krew.sigs.k8s.io/docs/user-guide/setup/install/) for more details
-THen you can install with krew.
+Then you can install with krew
 ```shell
 kubectl krew install ai
 ```
